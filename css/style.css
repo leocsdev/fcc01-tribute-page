@@ -60,16 +60,12 @@ p {
   padding-bottom: 0.5rem;
 }
 
-.text-primary {
-  color: #93cb52;
-}
-
 .text-center {
   text-align: center;
 }
 
 .btn {
-  background: #93cb52;
+  background: #f5f5f5;
   padding: 0.75rem 1rem;
   font-size: 1.25rem;
 }
