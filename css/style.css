@@ -69,15 +69,15 @@ p {
 }
 
 .btn {
-  background: #005AFF;
-  color: #fff;
+  background: #00D9FF;
+  color: #000;
   padding: 0.75rem 1rem;
   font-size: 1.25rem;
 }
 
 .btn:hover {
-  background: #00D9FF;
-  color: #000;
+  background: #005AFF;
+  color: #fff;
   padding: 0.75rem 1rem;
 }
 
